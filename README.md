@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to https://github.com/sailfishos-chum/sailfishos-chum.github.io
+> 
 # chum-web
 Static website generator to generate a website for [Chum](https://github.com/sailfishos-chum/), a Sailfish OS community repository.
 
